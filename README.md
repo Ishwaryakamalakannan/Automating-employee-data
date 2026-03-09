@@ -1,8 +1,11 @@
 Automating Employee Data
+
 📌 Project Overview
 The Automating Employee Data project focuses on simplifying and automating the management of employee information within an organization. Many companies still manage employee records manually using spreadsheets or paper-based systems, which can be time-consuming, inefficient, and prone to human errors.
 This project introduces an automated system designed to store, manage, and update employee data efficiently. It demonstrates how automation and basic programming techniques can be used to streamline administrative tasks and improve workplace productivity.
+
 🎯 Objectives
+
 Automate employee data management.
 Reduce manual work and human errors.
 Provide a structured way to store and organize employee records.
